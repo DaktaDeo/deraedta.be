@@ -15,8 +15,8 @@ export default {
   mixins: [AutoSEO],
   async asyncData(context) {
     const { $content } = context
-    const page = await $content('nantucket/index').fetch()
-    const list = await $content('nantucket')
+    const page = await $content('fff/index').fetch()
+    const list = await $content('fff')
       .where({ slug: { $ne: 'index' } })
       .without(['body'])
       .sortBy('date', 'desc')

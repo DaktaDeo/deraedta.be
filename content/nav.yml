@@ -11,10 +11,10 @@ header:
     id: 15
     weight: 8
     to: '/reviews'
-  - name: Nantucket
+  - name: FFF
     id: 13
     weight: 20
-    to: '/nantucket'
+    to: '/fff'
   - name: Journal
     id: 14
     weight: 30
@@ -28,10 +28,10 @@ mobile:
     id: 12
     weight: 10
     to: '/projects'
-  - name: Nantucket
+  - name: FFF
     id: 13
     weight: 20
-    to: '/nantucket'
+    to: '/fff'
   - name: Journal
     id: 14
     weight: 30

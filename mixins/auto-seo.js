@@ -2,14 +2,13 @@ export default {
   head() {
     // https://github.com/AlekseyPleshkov/nuxt-social-meta
     const defaults = {
-      url: 'https://gompje.be',
-      title: 'Personal Site of Veerle Deschepper',
-      site: 'Gompje.be',
-      description:
-        '🐦 ↦Learn. Write. Doodle. Code. Read. Geocache. 3D print. Lego. 🐱. Laravel. VueJS. Freelance. Life. -r  ↦Full Stack Web Application Development in Laravel + Vue.js @DaktaDeo  ↦Creator of Multipass -🦖',
+      url: 'https://deraedta.be',
+      title: 'Playground of Ann Deraedt',
+      site: 'Deraedta.be',
+      description: `"Often when you think you're at the end of something, you're at the beginning of something else." -- Fred Rodgers`,
       img: '/img/android-chrome-192x192.png',
       locale: 'nl_BE',
-      twitter: '@iAmGompje',
+      twitter: '@deraedta',
       twitter_card: 'summary',
       themeColor: '#80A5A9',
     }

@@ -43,12 +43,12 @@ const createFeed = async (feed, args) => {
 
   // const hostname =
   //   process.NODE_ENV === 'production'
-  //     ? 'https://gompje.be'
+  //     ? 'https://deraedta.be'
   //     : 'http://localhost:3000'
-  const hostname = 'https://gompje.be'
+  const hostname = 'https://deraedta.be'
 
   feed.options = {
-    title: 'Gompje.be -- All Posts',
+    title: 'Deraedta.be -- All Posts',
     description: 'Blog Stuff!',
     link: `${hostname}/feed.${ext}`,
   }
@@ -80,7 +80,7 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Gompje.be',
+    title: 'Deraedta.be',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -92,7 +92,7 @@ export default {
         rel: 'alternate',
         type: 'application/rss+xml',
         href: '/feed.xml',
-        title: 'Gompje.be -- All Posts -- rss feed',
+        title: 'Deraedta.be -- All Posts -- rss feed',
       },
       {
         rel: 'icon',
@@ -147,7 +147,7 @@ export default {
     [
       '@nuxtjs/google-analytics',
       {
-        id: 'UA-26421992-1',
+        id: 'UA-119311133-2',
       },
     ],
   ],
@@ -266,7 +266,7 @@ export default {
   },
   sitemap: [
     {
-      hostname: 'https://gompje.be',
+      hostname: 'https://deraedta.be',
       gzip: true,
       i18n: false,
     },
