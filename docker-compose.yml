@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  nginx:
+    build: .
+    ports:
+      - "5080:80"
+      - "5088:8080"
+    container_name: gompje-nuxt
