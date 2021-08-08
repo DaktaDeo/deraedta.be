@@ -1,31 +1,30 @@
 ---
-title: 'Who the hell am I?'
-author: Veerle Deschepper
-date:  2020-11-24T17:41:24+01:00
+title: 'Who is this Office Mistress?'
+author: Ann Deraedt
+date:  2017-05-15T17:41:24+01:00
 ---
-🤔 Hmm...Good question! I'm a thinker, thinkerer and builder of things. What?
+🤔 Hmm...Good question! I'm an engineer with a goal: getting the administration effective.
 
-You want my name?
+Why?
 
-Oh! Yes. 😊
+To free up time to do the nice things in live. 😊
 
 Let's start that again, shall we?
 
-Hi there, 👋 <br/>I’m Veerle Deschepper, a full-stack developer, entrepreneur, writer, 
-photographer, reader, painter, and I love to create Art – every tiny bit of it. I’m also a lego, geocaching, 
-cats and X-files fan.
+Hi there, 👋 <br/>I’m Ann Deraedt, a teacher, ex-entrepreneur, volunteer, 
+housewife, gardener, reader, runner, and I love to be outside.
 
-And yes... I do have my very own homelab in Gentbrugge -thats in Belgium- with <nuxt-link to="/uses">lots, lots, and lots of gear</nuxt-link>. 😏
+And yes... I do have my very own homelab in Menen -thats in Belgium- with <nuxt-link to="/uses">lots, lots, and lots of gear</nuxt-link>. 😏
 
 Oh. Yeah. I do speak Dutch as well. In fact it’s my mother tongue.. technically..
 
-I ❤ my cat, my friends, my family, boardgames, doodling, writing, Lego, code, 3D printing, drawing, photography, improving my life, reading, being outdoors and finding hidden treasures.
+I ❤ my husband, my friends, my family, my work, my students, Excel, improving my life, reading, being outdoors and just running.
 
-Sometimes <nuxt-link to="/articles">I write useful posts</nuxt-link>, <nuxt-link to="/journal">sometimes very silly</nuxt-link>, and <nuxt-link to="/nantucket">a bit dark ones</nuxt-link>.  **But most times I write, create, build, code, play and explore other realities.**  
+Sometimes <nuxt-link to="/articles">I write useful posts</nuxt-link>, <nuxt-link to="/journal">sometimes very silly</nuxt-link>, and <nuxt-link to="/fff">stuff for friends, family and fools</nuxt-link>.  **But most times I work with other people.**  
 
-<small>.. I&#8217;m also a Scout for life &#8211; Creative Sifaka &#8211; present!</small>
+<small>.. I&#8217;m also a supporter &#8211; of Brugge Marine Center!</small>
 
-**INFP &#8211; W**ork.**I**n.**P**rogress ✌️
+**ESFJ &#8211; W**ork.**I**n.**P**rogress ✌️
 
 <nuxt-link to="/this-is-me">more...</nuxt-link>
 

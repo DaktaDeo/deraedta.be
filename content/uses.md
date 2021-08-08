@@ -1,7 +1,7 @@
 ---
 title: 'Uses'
-author: Veerle Deschepper
-date:  2020-11-24T17:41:24+01:00
+author: Ann Deraedt
+date:  2017-11-24T17:41:24+01:00
 ---
 Inspired by friends, I've put together this "uses" page that covers every part of my setup.
 
