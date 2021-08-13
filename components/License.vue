@@ -8,8 +8,8 @@
       rel="cc:attributionURL dct:creator"
       property="cc:attributionName"
       class="hover:text-gray-500 underline"
-      href="https://www.gompje.be"
-      >Veerle Deschepper</a
+      href="https://www.deraedta.be"
+      >Ann Deraedt</a
     >
     is licensed under
     <a

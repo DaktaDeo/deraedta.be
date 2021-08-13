@@ -1,11 +1,8 @@
 ---
-title: 'There once was a man in Nantucket.'
-subtitle: 'Ah! Nantucket. Home of the man who once had a bucket.'
-author: Veerle Deschepper
+title: 'If the wine is in the man, the wisdom is in the pitcher.'
+subtitle: 'Ah! Office Mistress, de romantic side'
+author: Ann Deraedt
 date:  2020-11-24T17:41:24+01:00
-warning: 'It wasn’t my intend to offend anyone.'
+warning: 'In vino veritas.'
 ---
-These aren’t limerics, although I try to follow the same cadans they have.
-There is something about that starting phrase “there once was a man in
-Nantucket” that just gets me started writing silly, sarcastic, unusual
-things. I have an odd sense of humour that isn’t for everyone.
+I'm not the woman with much humor. I'm too serious. But onces in a while, the other side of me is coming up. The result are scribbles you can read hear.

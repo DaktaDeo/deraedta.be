@@ -3,10 +3,7 @@
     <div class="max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
       <socials :socials="socials"></socials>
       <p class="mt-8 text-center text-base text-gray-400">
-        The DaktaDeo & Multipass logos are copyright &copy;
-        <a href="https://daktadeo.be?ref=gompje.be">DaktaDeo.</a> 2011–{{
-          new Date().getFullYear()
-        }}. <br /><license></license>
+        <license></license>
         <nuxt-link to="/terms" class="ml-2 underline">
           Terms & Conditions
         </nuxt-link>
