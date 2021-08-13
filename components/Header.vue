@@ -21,7 +21,7 @@
         >
           <img
             class="h-10 w-10 md:h-12 md:w-12 lg:h-20 lg:w-20 rounded-full"
-            src="https://secure.gravatar.com/avatar/09251c08e3db9c6698f9fe621d4c1d6e?s=160&d=identicon"
+            src="https://secure.gravatar.com/avatar/2d4cf16d964b47fb9dda78f230b9ad37?s=160&d=identicon"
             alt=""
           />
         </nuxt-link>
@@ -334,7 +334,7 @@
             <div class="flex items-center justify-between">
               <img
                 class="h-10 w-10 md:h-12 md:w-12 lg:h-20 lg:w-20 rounded-full"
-                src="https://secure.gravatar.com/avatar/09251c08e3db9c6698f9fe621d4c1d6e?s=800&d=identicon"
+                src="https://secure.gravatar.com/avatar/2d4cf16d964b47fb9dda78f230b9ad37?s=160&d=identicon"
                 alt=""
               />
 
