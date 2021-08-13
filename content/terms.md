@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-author: Veerle Deschepper
+author: Ann Deraedt
 date: 2017-10-01T20:34:36+00:00
 ---
 By accessing this website, you are agreeing to be bound by these Terms and Conditions, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law.

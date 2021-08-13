@@ -1,25 +1,21 @@
 follow:
   - name: twitter
     title: Twitter
-    link: 'https://twitter.com/intent/follow?screen_name=iAmGompje'
+    link: 'https://twitter.com/intent/follow?screen_name=deraedta'
     weight: 10
   - name: facebook
     title: Facebook
-    link: 'https://www.facebook.com/Gompje'
+    link: 'https://www.facebook.com/deraedta'
     weight: 20
   - name: linkedin
     title: LinkedIn
-    link: 'https://www.linkedin.com/in/veerledeschepper/'
+    link: 'https://www.linkedin.com/in/deraedta/'
     weight: 30
   - name: instagram
     title: Instagram
-    link: 'https://www.instagram.com/gompje/'
+    link: 'https://www.instagram.com/deraedtann/'
     weight: 40
-  - name: gitlab
-    title: Gitlab
-    link: 'https://gitlab.com/Gompje'
-    weight: 50
   - name: github
     title: Github
-    link: 'https://github.com/Gompje'
-    weight: 51
+    link: 'https://github.com/deraedta'
+    weight: 50
