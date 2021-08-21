@@ -1,6 +1,6 @@
 ---
 title: 'If the wine is in the man, the wisdom is in the pitcher.'
-subtitle: 'Ah! Office Mistress, de romantic side'
+subtitle: 'Ah! Office Mistress, the romantic side of me'
 author: Ann Deraedt
 date:  2020-11-24T17:41:24+01:00
 warning: 'In vino veritas.'
