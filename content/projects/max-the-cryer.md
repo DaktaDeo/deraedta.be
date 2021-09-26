@@ -18,7 +18,7 @@ On the site of [Unraid](https://www.unraid.net/) you can read the definition: "U
 If you compare to a RAID system, it has a great advantage: you can use all kind of different old disc with differents size or brand. 
 You can reuse your old hardware, for me it means: it is a sustainable solution.
 
-At home we named our old server - dated 2011 - "Max, the cryer". Because he is old, the fan is making a lot of noice. But we are happy, we reused an old [Supermicro](https://www.supermicro.com/en/home) server from [Brugge Marine Center](https://bruggemarinecenter.com/nl/hallo/).
+At home we named our old server - dated 2011 - "Max, the cryer". Because he is old, the fan is making a lot of noice 🔊. But we are happy, we reused an old [Supermicro](https://www.supermicro.com/en/home) server from 🏭 [Brugge Marine Center](https://bruggemarinecenter.com/nl/hallo/).
 
 <content-image src="/img/max-the-cryer.jpg" alt="An old server put in the garage not to be disturbed by the fan noise."></content-image>
 
