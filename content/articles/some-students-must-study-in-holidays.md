@@ -1,5 +1,5 @@
 ---
-title: Students who learn at own peace have maximum rendement (in dutch) 
+title: Students who learn at own peace have maximum rendement (Dutch) 
 author: Ann Deraedt
 type: post
 date: 2021-08-07T10:48:07+00:00
