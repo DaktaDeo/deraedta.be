@@ -1,5 +1,5 @@
 ---
-title: Lecturers are allowed to study during summer (in dutch) 
+title: Lecturers are allowed to study during summer (Dutch) 
 author: Ann Deraedt
 type: post
 date: 2021-07-27T10:48:07+00:00
