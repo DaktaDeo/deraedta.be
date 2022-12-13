@@ -15,6 +15,7 @@ tags:
 <small>Howest is one of the two new international partners at Hochschule der Medien HdM in Stuttgart. For me it is the European university with most sustainable connections. </small>
 
 ## International Week - edition 20 🎂
+I'm so happy that Erasmus++ exists. Thanks to the [Staff Mobility Training](https://erasmusplus.rs/scholarships/staff-mobility/) 🙏, I was able to work on my global citizen skills thanks to this programm.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/netwerkeconomie/52554705094/" title="campus HdM front (2)"><img src="https://live.staticflickr.com/65535/52554705094_e4800baa5d_z.jpg" width="640" height="480" alt="campus HdM front (2)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
