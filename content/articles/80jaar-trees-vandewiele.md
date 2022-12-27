@@ -54,7 +54,14 @@ Nr | Restaurant  | Locatie | Telefoon | Email | Info
 * + 24€ = drankarrangement 1/2 fles wijn en 1/2 fles water 
 * [info groepsmenu](https://www.patyntje.com/_files/ugd/8b6ba7_b702983891a24e75b588f0540a7d23c9.pdf)
 
-### 6. La Descente du Pont - Helkijn
+### 6. Les Eleveurs - Halle
+* 3-gangenmenu:
+* 55€ = 1 voorgerecht, hoofdgerecht, dessert en koffie
+* + 28€ = wijnformule 
+* [info menu december](../info/menuleseleveurs.pdf)
+
+
+### 7. La Descente du Pont - Helkijn
 * Menu:
 * 45€ = 1 voorgerecht, hoofdgerecht, dessert van het huis
 * + 15€ = met aangepaste wijnen
