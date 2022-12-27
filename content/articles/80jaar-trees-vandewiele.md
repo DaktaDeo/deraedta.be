@@ -16,7 +16,7 @@ tags:
 Trees Vandewiele wordt 80 jaar. De meest genetwerkte inwoner van Marke, als je het mij vraagt.
 Met de familie gaan we van de gelegenheid gebruik maken om Nieuwjaar te vieren.
 We zoeken een compromis in verband met de lokatie waar de 6 gezinnen wonen:
-Laar, Londerzeel, Hofstade, Brugge, Lauwe, Marke, Sint-Denijs
+Laar, Londerzeel, Hofstade, Brugge, Lauwe, Marke, Zwevegem
 
 ## Dit zijn de running-up restaurants:
 
@@ -29,10 +29,10 @@ Nr | Restaurant  | Locatie | Telefoon | Email | Info
 5 | [Patyntje](https://www.patyntje.com/) | Gent | 09 9223273 | info@patyntje.be | ...
 6 | [les Eleveurs](https://www.les-eleveurs.be/) | Halle | 02 3611340 | info@les-eleveurs.be | ...
 7 | [La Descente du pont](https://ladescentedupont.be/) | Helkijn-Potte | 056 456275 | info@ladescentedupont.be | vrij
-8 [Fiston](https://www.brasserie-fiston.be/)| Varsenare | 050 66 68 64 | info@brasserie-fiston.be| in verlof tot 5 jan
+8 |  [Fiston](https://www.brasserie-fiston.be/)| Varsenare | 050 66 68 64 | info@brasserie-fiston.be| in verlof tot 5 jan
 9 | [SalonstGroenhof](http://www.salonstgroenhof.be/) | Melle | 0475 263556 | info@salonstgroenhof.be | volzet
 
-## menu's
+## Menu's
 
 ### 2. Ter Biest - Lauwe
 * Gastronomisch menu: 
@@ -55,5 +55,6 @@ Nr | Restaurant  | Locatie | Telefoon | Email | Info
 * [info menu december?](https://ladescentedupont.be/menu2/)
 
 
+## And the winner is....
 
 
