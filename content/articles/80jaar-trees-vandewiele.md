@@ -26,7 +26,7 @@ Nr | Restaurant  | Locatie | Telefoon | Email | Info
 2 | [Ter Biest](https://www.terbiest.be/) | Lauwe | 056 414749 | info@terbiest.be | vrij
 3 | [La Cravache](https://www.lacravache.be/nl) | Rekkem | 056 426767 | info@lacravache.be | ...
 4 | [Pampas](https://www.pampas.be/contact-nl) | Gent | | info@pampas.be | shift vanaf 20u30
-5 | [Patyntje](https://www.patyntje.com/) | Gent | 09 9223273 | info@patyntje.be | ...
+5 | [Patyntje](https://www.patyntje.com/) | Gent | 09 9223273 | info@patyntje.be | vrij
 6 | [les Eleveurs](https://www.les-eleveurs.be/) | Halle | 02 3611340 | info@les-eleveurs.be | ...
 7 | [La Descente du pont](https://ladescentedupont.be/) | Helkijn-Potte | 056 456275 | info@ladescentedupont.be | vrij
 8 |  [Fiston](https://www.brasserie-fiston.be/)| Varsenare | 050 66 68 64 | info@brasserie-fiston.be| in verlof tot 5 jan
@@ -47,6 +47,12 @@ Nr | Restaurant  | Locatie | Telefoon | Email | Info
 * + 6.70€ = afsluiter
 * geen speciale formule voor [dranken](https://www.pampas.be/drinks-nl) 
 * [details over de formule](https://www.pampas.be/formulas-nl)
+
+### 5. Patyntje - Gent
+* Groepsmenu:
+* 58€ = 1 voorgerecht, hoofdgerecht, dessert en koffie
+* + 24€ = drankarrangement 1/2 fles wijn en 1/2 fles water 
+* [info groepsmenu](https://www.patyntje.com/_files/ugd/8b6ba7_b702983891a24e75b588f0540a7d23c9.pdf)
 
 ### 6. La Descente du Pont - Helkijn
 * Menu:
