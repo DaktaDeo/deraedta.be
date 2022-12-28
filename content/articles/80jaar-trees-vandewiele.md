@@ -24,13 +24,14 @@ Nr | Restaurant  | Locatie | Telefoon | Email | Info
 --- | ------------- | -------------| ---- | ----- | -----
 1 | [Culinair](https://www.restaurantculinair.be/) | Lauwe |  056 426733| info@restaurantculinair.be | ... 
 2 | [Ter Biest](https://www.terbiest.be/) | Lauwe | 056 414749 | info@terbiest.be | vrij
-3 | [La Cravache](https://www.lacravache.be/nl) | Rekkem | 056 426767 | info@lacravache.be | ...
+3 | [La Cravache](https://www.lacravache.be/nl) | Rekkem | 056 426767 | info@lacravache.be | volzet
 4 | [Pampas](https://www.pampas.be/contact-nl) | Gent | | info@pampas.be | shift vanaf 20u30
 5 | [Patyntje](https://www.patyntje.com/) | Gent | 09 9223273 | info@patyntje.be | vrij
-6 | [les Eleveurs](https://www.les-eleveurs.be/) | Halle | 02 3611340 | info@les-eleveurs.be | ...
+6 | [les Eleveurs](https://www.les-eleveurs.be/) | Halle | 02 3611340 | info@les-eleveurs.be | vrij
 7 | [La Descente du pont](https://ladescentedupont.be/) | Helkijn-Potte | 056 456275 | info@ladescentedupont.be | vrij
 8 |  [Fiston](https://www.brasserie-fiston.be/)| Varsenare | 050 66 68 64 | info@brasserie-fiston.be| in verlof tot 5 jan
 9 | [SalonstGroenhof](http://www.salonstgroenhof.be/) | Melle | 0475 263556 | info@salonstgroenhof.be | volzet
+10 | [Den Oesterput](http://www.denoesterput.be/) | Wevelgem | 0468 253800 | 
 
 ## Menu's
 
@@ -66,6 +67,12 @@ Nr | Restaurant  | Locatie | Telefoon | Email | Info
 * 45€ = 1 voorgerecht, hoofdgerecht, dessert van het huis
 * + 15€ = met aangepaste wijnen
 * [info menu december?](https://ladescentedupont.be/menu2/)
+
+### 9. Salon 't Groenhof - Melle
+* Menu:
+* [winter herfst](../info/menugroenhofherfstwinter.pdf)
+* [lente](../info/menugroenhoflente.pdf)
+* [selectie](../info/menugroenhofselectie.pdf)
 
 
 ## And the winner is....
