@@ -22,7 +22,7 @@ Laar, Londerzeel, Hofstade, Brugge, Lauwe, Marke, Zwevegem
 
 Nr | Restaurant  | Locatie | Telefoon | Email | Info 
 --- | ------------- | -------------| ---- | ----- | -----
-1 | [Culinair](https://www.restaurantculinair.be/) | Lauwe |  056 426733| info@restaurantculinair.be | ... 
+1 | [Culinair](https://www.restaurantculinair.be/) | Lauwe |  056 426733| info@restaurantculinair.be | vrij 
 2 | [Ter Biest](https://www.terbiest.be/) | Lauwe | 056 414749 | info@terbiest.be | vrij
 3 | [La Cravache](https://www.lacravache.be/nl) | Rekkem | 056 426767 | info@lacravache.be | volzet
 4 | [Pampas](https://www.pampas.be/contact-nl) | Gent | | info@pampas.be | shift vanaf 20u30
@@ -35,9 +35,16 @@ Nr | Restaurant  | Locatie | Telefoon | Email | Info
 
 ## Menu's
 
+### 1. Culinair - Lauwe
+* Gastronomisch menu: 
+* 70€ = 2x fingerfood, 2x teaser, 2x Coquilles, Noordzeevis, Haas (of alternatief), Mandarijn
+* + 35€ = wijnarrangement
+* [info menu talent & passie](https://www.restaurantculinair.be/menus)
+
+
 ### 2. Ter Biest - Lauwe
 * Gastronomisch menu: 
-* 55€ = 1 voorgerecht, hoofdgerecht, dessert van het huis
+* 55€ = 1 voorgerecht, keuze uit 3 vlees hoofdgerechten, dessert van het huis
 * + 25€ = Apero, aangepaste wijnen, water en koffie en zoetigheden
 * [info menu december](https://www.terbiest.be/menus/gastronomisch-menu/)
 
