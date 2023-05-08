@@ -23,3 +23,12 @@ At high schools in Belgium a lot of teachers has a second role of researcher. Th
 If you want to use my expertise, you can [book a free hour in my Booking calendar](https://outlook.office365.com/owa/calendar/Howest3419277@hogeschool-wvl.be/bookings/). Feel free, I'll be happy to help you 🙏.
 
 The Youtube Channel ['Modern Onderwijs'](https://www.youtube.com/watch?v=-Mt-LA8lIZ0) was my inspiration article. In 15 minutes I got a good overview of all the function. The focus is on Education and not on Business. Just what I needed 💪.
+
+## Update 28th March
+In the second semester, students do a 1-day internship at two companies. One of the challenges is finding a suitable date. Microsoft Booking proves its service here. Top!
+
+I learned from the above experiment, and added a link to "book a call with me" in my email signature. It works for students, colleagues and external parties.
+I am satisfied with this extension on my calendar.
+
+## Book a meeting
+You can book a conversation via this link: [Booking](https://bit.ly/bookings_deraedta)
